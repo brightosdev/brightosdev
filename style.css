@@ -326,8 +326,14 @@ footer strong {
 
     letter-spacing: 0.12em;
 }
+footer a {
 
+    color: #777;
 
+    text-decoration: none;
+
+    font-size: 12px;
+}
 /* ============================= */
 /* MOBILE */
 /* ============================= */
